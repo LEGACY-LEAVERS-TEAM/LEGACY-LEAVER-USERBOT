@@ -1,35 +1,35 @@
-# 🔥🔥DEMON USERBOT🇮🇳🇮🇳
+# 🔥🔥LEGACY USERBOT🇮🇳🇮🇳
 
 
  
 
-#OWNER : DEMON NETWORK 
+#OWNER : LEGACY LEAVERS NETWORK 
 
 <p align="center">
-  <a href="https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/fork">
+  <a href="https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT/fork">
     
 
 
-![DEMON USERBOT](https://telegra.ph/file/43f42fb490f9193be2a34.jpg)
+![LEGACY LEAVERS USERBOT](https://telegra.ph/file/3e5a4478f5e213c1d1dea.jpg)
 
 ### Group Support 🔥🇮🇳🇮🇳
 `
 Click the button below to join our support group`
-   <a href="https://t.me/DEMON_UB_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-DEMON-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/LEGACY_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-DEMON-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
-__Repository create by [SMIT/SID](Smitmore2)__
+__Repository create by [TONY-CHETANYA](TONY_LOGIC_EXPERT)__
 
 
 
 
 ### Deploy to Heroku
 
-[![Deploy](https://telegra.ph/file/77e6b2a553ef3485a40d8.jpg)](https://heroku.com/deploy?template=https://github.com/Smitmore2003/DEMON-USERBOT)
+[![Deploy](https://telegra.ph/file/0bf98050856e152cc8459.jpg)](https://heroku.com/deploy?template=https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT)
 
 ### String Session 🖇
 `
 Click the button next to create your strings`
-[![repl](https://telegra.ph/file/66c4095df6e49f2c2e915.jpg)](https://replit.com/@Smitmore2003/DEMON-USERBOT-2#main.py)
+[![repl](https://telegra.ph/file/365f4ec857884b4bb75ab.jpg)](https://replit.com/@Smitmore2003/DEMON-USERBOT-2#main.py)
     
 ------------------------------------------------
 ## 𝚅𝙰𝚁𝙸𝙰𝙱𝙻𝙴𝚂 :
