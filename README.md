@@ -1,4 +1,4 @@
-# 🔥🔥LEGACY USERBOT🇮🇳🇮🇳
+# 💘💝💖LEGACY USERBOT🇮🇳🇮🇳
 
 
  
@@ -12,7 +12,7 @@
 
 ![LEGACY LEAVERS USERBOT](https://telegra.ph/file/3e5a4478f5e213c1d1dea.jpg)
 
-### Group Support 🔥🇮🇳🇮🇳
+### Group Support 💖💖
 `
 Click the button below to join our support group`
    <a href="https://t.me/LEGACY_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-LEGACY-red?&style=flat-square?&logo=telegram" width=170px></a></p>
