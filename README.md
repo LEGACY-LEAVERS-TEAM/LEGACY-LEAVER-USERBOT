@@ -15,7 +15,7 @@
 ### Group Support 🔥🇮🇳🇮🇳
 `
 Click the button below to join our support group`
-   <a href="https://t.me/LEGACY_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-DEMON-red?&style=flat-square?&logo=telegram" width=170px></a></p>
+   <a href="https://t.me/LEGACY_USERBOT_SUPPORT"><img src="https://img.shields.io/badge/Grup%20Support%3F-LEGACY-red?&style=flat-square?&logo=telegram" width=170px></a></p>
 
 __Repository create by [TONY-CHETANYA](TONY_LOGIC_EXPERT)__
 
