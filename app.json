@@ -1,6 +1,6 @@
 {
-  "name": "Demon UserBot",
-  "description": "[Demon UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY DEMON NETWORK",
+  "name": "Legacy Leavers UserBot",
+  "description": "[Legacy Leavers UserBot] A modular Telegram userbot running on Python 3.9.2 MADE BY LEGACY LEAVERS NETWORK",
   "keywords": [
     "telegram",
     "userbot",
@@ -8,8 +8,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Smitmore2003/DEMON-USERBOT",
-  "website": "https://t.me/DEMON_UB_SUPPORT",
+  "repository": "https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT",
+  "website": "https://t.me/LEGACY_USERBOT_SUPPORT",
   "stack": "container",
   "env": {
     "ALIVE_NAME": {
@@ -44,7 +44,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "In case you maintain a fork, add your repo URL here.",
-      "value": "https://github.com/Smitmore2003/DEMON-USERBOT",
+      "value": "https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT",
       "required": false
     },
     "COUNTRY": {
@@ -156,7 +156,7 @@
     },
     "TERM_ALIAS": {
       "description": "Display user for .term command",
-      "value": "DeMon",
+      "value": "LeGacy",
       "required": false
     }
   },
