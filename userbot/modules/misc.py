@@ -80,7 +80,7 @@ async def killdabot(event):
 async def reedme(e):
     await e.edit(
         "Here's something for you to read:\n"
-        "\n[Demon README.md file](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT/blob/main/README.md)"     
+        "\n[Legacy README.md file](https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT/blob/main/README.md)"     
        
     )
 
@@ -103,7 +103,7 @@ async def repeat(rep):
 @register(outgoing=True, pattern=r"^\.repo$")
 async def repo_is_here(wannasee):
     """For .repo command, just returns the repo URL."""
-    await wannasee.edit("• Click here [Repo](https://github.com/SRIDHAR2021SIDDHARTH/DEMON-USERBOT)")
+    await wannasee.edit("• Click here [Repo](https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT)")
 
 
 @register(outgoing=True, pattern=r"^\.raw$")
