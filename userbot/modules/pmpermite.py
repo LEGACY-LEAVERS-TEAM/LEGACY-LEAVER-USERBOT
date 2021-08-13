@@ -3,23 +3,21 @@
 # Licensed under the Raphielscape Public License, Version 1.c (the "License");
 # you may not use this file except in compliance with the License.
 #
-"""Userbot module for keeping control who PM you."""
+""" Userbot module for keeping control who PM you. """
 
-import os
 from sqlalchemy.exc import IntegrityError
 from telethon.tl.functions.contacts import BlockRequest, UnblockRequest
 from telethon.tl.functions.messages import ReportSpamRequest
 from telethon.tl.types import User
-from userbot.events import register
-from userbot import 
+
+from userbot import (
     BOTLOG,
     BOTLOG_CHATID,
     CMD_HELP,
     COUNT_PM,
     LASTMSG,
     LOGS,
-    ALIVE_LOGO,
-    PM_AUTO_BAN,
+    PM_AUTO_BAN, 
     CUSTOM_PMPERMIT_TEXT,
     DEFAULTUSER,
 )
