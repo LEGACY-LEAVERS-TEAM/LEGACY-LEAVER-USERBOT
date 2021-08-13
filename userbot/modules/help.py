@@ -28,7 +28,7 @@ async def help(event):
         sep2 = "`══════════════𖣘︎NETWORK𖣘︎═════════════`"
         for i in sorted(CMD_HELP):
             string += "`" + str(i)
-            string += "`  ༺༒༻  "
+            string += "`   ☬᭄  "
         await event.edit(
             f"{head}\
               \n{head2}\
