@@ -12,7 +12,6 @@ import time
 import re
 import io
 import random
-import spamwatch as spam_watch
 
 from datetime import datetime
 from time import sleep
