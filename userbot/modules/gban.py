@@ -154,7 +154,7 @@ async def gspider(userbot):
         if not reason:
             reason = "Private"
     except BaseException:
-        return await friday.edit("Terjadi Kesalahan!!")
+        return await friday.edit("There is an error!!")
     if user:
         if user.id == 1411273575:
             return await friday.edit("**You Cant gban him... as a result you can not ungban him... He is My Creator!**")
