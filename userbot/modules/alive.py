@@ -142,7 +142,7 @@ async def amireallyalive(alive):
     f"👤 𝗨𝗦𝗘𝗥 ➪ {DEFAULTUSER}\n" 
     "▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n" 
     f"⚡️𝗠𝗬 𝗢𝗪𝗡𝗘𝗥⚡️➪{DEFAULTUSER}** \n" 
-    f"**⚡️ 𝗥𝗘𝗣𝗢⚡️➪ [𝗗𝗘𝗠𝗢𝗡](https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT)** \n"
+    f"**⚡️ 𝗥𝗘𝗣𝗢⚡️➪ [LEGACY](https://github.com/LEGACY-LEAVERS-TEAM/LEGACY-LEAVER-USERBOT)** \n"
     f"**⚡️𝗖𝗛𝗔𝗡𝗡𝗘𝗟⚡️➪ [𝗝𝗢𝗜𝗡](https://t.me/LEGACY_USERBOT_SUPPORT)** \n"
     f"**⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️➪ [𝗝𝗢𝗜𝗡](https://t.me/LEGACY_LEAVERS_UB_SUPPORT)**")
     if ALIVE_LOGO:
